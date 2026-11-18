@@ -114,12 +114,23 @@ Todos os vídeos estão na pasta [`videos/`](videos/):
 
 ### QR-DQN com penalizações de tiro e morte
 
+https://github.com/user-attachments/assets/bb148e9a-318d-499f-b7df-8d3412d42e2d
+
 ### QR-DQN com penalização por inimigos
+
+https://github.com/user-attachments/assets/019b9e6d-3eab-4fa1-a550-0848fe7f2c9b
 
 ### PPO no ambiente original
 
+https://github.com/user-attachments/assets/59dfd181-ac5c-4153-b0b2-691def818bd5
+
 ### Teste de robustez: agente treinado sem ruído 
+
+https://github.com/user-attachments/assets/3b70a7e6-6806-418a-bfa8-c93e76781c51
+
 ### Teste de robustez: agente treinado com ruído
+
+https://github.com/user-attachments/assets/72d8e9ed-d6ec-485c-a060-4c6e17741b25
 
 ---
 
